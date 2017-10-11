@@ -1,6 +1,6 @@
 # cvml02-MLPPredictPeriodic
 
-Side by side comparision of OpenCV results with Keras
+Side by side comparison of OpenCV results with Keras
 
 | Method | RMS | Training Time (s) | Prediction Time (ms) |
 | --- | --- | ---| --- |
